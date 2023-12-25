@@ -3,7 +3,7 @@
 
 Я начинающий Python разработчик. Мой путь в эту профессию начался с изучения Python, после чего загорелся желанием подробно его изучить и связать с ним дальнейшую работу. Имею опыт работы с фреймворками Python, DRF, SQL и Docker.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew12022&label=Profile%20views&color=0e75b6&style=flat" alt="andrew12022" /> </p>
-<img align="right" alt="Coding" width="300" src="https://otkritkis.com/wp-content/uploads/2022/07/hulko.gif">
+<img align="right" alt="Coding" width="250" src="https://otkritkis.com/wp-content/uploads/2022/07/hulko.gif">
 
 - 🖥️  Все мои проекты можете увидеть в [моих репозиториях](https://github.com/andrew12022?tab=repositories)
   
